@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{882128E6-5DC1-4156-BC5E-CF97C9909939}|Movable\\Movable.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment2-10969867\\movable\\movable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882128E6-5DC1-4156-BC5E-CF97C9909939}|Movable\\Movable.csproj|solutionrelative:movable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882128E6-5DC1-4156-BC5E-CF97C9909939}|Movable\\Movable.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment2-10969867\\movable\\movable\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882128E6-5DC1-4156-BC5E-CF97C9909939}|Movable\\Movable.csproj|solutionrelative:movable\\bicycle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882128E6-5DC1-4156-BC5E-CF97C9909939}|Movable\\Movable.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment2-10969867\\movable\\movable\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882128E6-5DC1-4156-BC5E-CF97C9909939}|Movable\\Movable.csproj|solutionrelative:movable\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{882128E6-5DC1-4156-BC5E-CF97C9909939}|Movable\\Movable.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment2-10969867\\movable\\movable\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{882128E6-5DC1-4156-BC5E-CF97C9909939}|Movable\\Movable.csproj|solutionrelative:movable\\imovable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bicycle.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\Movable\\Bicycle.cs",
+              "RelativeDocumentMoniker": "Movable\\Bicycle.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\Movable\\Bicycle.cs",
+              "RelativeToolTip": "Movable\\Bicycle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:50:43.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\Movable\\Car.cs",
+              "RelativeDocumentMoniker": "Movable\\Car.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\Movable\\Car.cs",
+              "RelativeToolTip": "Movable\\Car.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:49:55.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IMovable.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\Movable\\IMovable.cs",
+              "RelativeDocumentMoniker": "Movable\\IMovable.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\Movable\\IMovable.cs",
+              "RelativeToolTip": "Movable\\IMovable.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:48:53.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\Movable\\Program.cs",
+              "RelativeDocumentMoniker": "Movable\\Program.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Movable\\Movable\\Program.cs",
+              "RelativeToolTip": "Movable\\Program.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAwwA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T23:02:36.544Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
