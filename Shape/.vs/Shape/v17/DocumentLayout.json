@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{66357D63-35CC-4165-A738-C5ECB18F2187}|Shape\\Shape.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment2-10969867\\shape\\shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66357D63-35CC-4165-A738-C5ECB18F2187}|Shape\\Shape.csproj|solutionrelative:shape\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66357D63-35CC-4165-A738-C5ECB18F2187}|Shape\\Shape.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment2-10969867\\shape\\shape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66357D63-35CC-4165-A738-C5ECB18F2187}|Shape\\Shape.csproj|solutionrelative:shape\\rectangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66357D63-35CC-4165-A738-C5ECB18F2187}|Shape\\Shape.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment2-10969867\\shape\\shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66357D63-35CC-4165-A738-C5ECB18F2187}|Shape\\Shape.csproj|solutionrelative:shape\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{66357D63-35CC-4165-A738-C5ECB18F2187}|Shape\\Shape.csproj|c:\\users\\iamda\\onedrive\\documents\\codebases\\csharp\\dcit318-assignment2-10969867\\shape\\shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{66357D63-35CC-4165-A738-C5ECB18F2187}|Shape\\Shape.csproj|solutionrelative:shape\\shape.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rectangle.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\Shape\\Rectangle.cs",
+              "RelativeDocumentMoniker": "Shape\\Rectangle.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\Shape\\Rectangle.cs",
+              "RelativeToolTip": "Shape\\Rectangle.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:28:02.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\Shape\\Circle.cs",
+              "RelativeDocumentMoniker": "Shape\\Circle.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\Shape\\Circle.cs",
+              "RelativeToolTip": "Shape\\Circle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:26:16.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Shape.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\Shape\\Shape.cs",
+              "RelativeDocumentMoniker": "Shape\\Shape.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\Shape\\Shape.cs",
+              "RelativeToolTip": "Shape\\Shape.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:23:54.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\Shape\\Program.cs",
+              "RelativeDocumentMoniker": "Shape\\Program.cs",
+              "ToolTip": "C:\\Users\\iamda\\OneDrive\\Documents\\Codebases\\Csharp\\dcit318-assignment2-10969867\\Shape\\Shape\\Program.cs",
+              "RelativeToolTip": "Shape\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T22:22:25.428Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
